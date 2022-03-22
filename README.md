@@ -3,6 +3,6 @@
 
 *Here are the assignments:* [Assignments](https://github.com/kalaoglusedef/Patika-ProteinTasks)
 
-*Here are the first week assignment:* [First Week Assignment](https://github.com/kalaoglusedef/Assignment-Marvel-)
+
 
 

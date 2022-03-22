@@ -2,3 +2,7 @@
 # week1-assignment
 
 *Here are the assignments:* [Assignments](https://github.com/kalaoglusedef/Patika-ProteinTasks)
+
+*Here are the first week assignment:* [Assignments](https://github.com/kalaoglusedef/Assignment-Marvel-)
+
+
